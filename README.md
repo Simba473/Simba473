@@ -1,8 +1,8 @@
 # Professional Profile
 
 # Name: Gurditt Singh Dadiala
-* Aspiring Data Scientist | I want to die
-* Email: vaibhavsemwal15@gmail.com | LinkedIn Profile: www.linkedin.com/in/vaibhav-semwal-4353a5169
+* Aspiring Data Scientist | Cooking
+* Email: gurditt.dadiala@gmail.com | LinkedIn Profile: 
 
 # Education:
 * Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Roorkee)
